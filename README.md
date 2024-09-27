@@ -47,3 +47,42 @@ To run this project locally, follow the steps below:
    ```bash
    git clone https://github.com/yourusername/cryptoclock.git
    cd cryptoclock
+  `
+## Screenshots
+
+Here are a few screenshots showcasing the user interface and features of **CryptoClock**:
+
+### Home Page
+![Home Page](./screenshots/home-page.png)  
+_Real-time cryptocurrency tracking with data visualization._
+
+### Login Page
+![Login Page](./screenshots/login-page.png)  
+_Secure authentication system using Firebase._
+
+### Dashboard
+![Dashboard](./screenshots/dashboard.png)  
+_Interactive user dashboard showing cryptocurrency price trends over different timeframes._
+
+> Note: You can add your actual image files to the `screenshots` folder in your project and replace the placeholder paths above with the correct image file paths.
+
+## Login
+
+The application uses **Firebase** for user authentication, providing a secure login and signup system. Here’s how the login process works:
+
+1. **User Signup:**  
+   New users can sign up using their email and password, which is securely stored in Firebase Authentication.
+
+2. **User Login:**  
+   Returning users can log in using their credentials, allowing them to access their personalized dashboard and cryptocurrency data.
+
+3. **Secure Authentication:**  
+   Firebase Authentication ensures secure login and signup, with protection against unauthorized access.
+
+### How to Use the Login System
+
+1. Navigate to the **Login Page**.
+2. If you don’t have an account, click on **Sign Up** and create an account with your email and password.
+3. Once signed up, you can log in with your credentials to access your dashboard.
+
+The authentication system ensures that users' data remains private and secure, providing a smooth and safe experience.
