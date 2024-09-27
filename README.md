@@ -2,6 +2,11 @@
 
 **CryptoClock** is a real-time cryptocurrency price tracking web application built using ReactJS, Material UI, Firebase, ChartJS, and React Context API. The application provides live updates on cryptocurrency prices, offering insights into price changes over various timeframes ranging from 24 hours to a year. The project emphasizes data visualization and secure user authentication to enhance user engagement and experience.
 
+## Demo
+
+You can try out the live demo of **CryptoClock** here:
+[CryptoClock Live Demo](https://crypto-clock.netlify.app/)
+
 ## Features
 
 - **Real-time Cryptocurrency Tracking:**  
@@ -42,13 +47,47 @@ To run this project locally, follow the steps below:
 
 ### Installation
 
-1. **Clone the repository:**
+Step 1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/yourusername/cryptoclock.git
    cd cryptoclock
-  `
-## Screenshots
+  ```
+
+Step 2: **Install Dependencies**
+After cloning the repository, install the required dependencies by running:
+
+  ```bash
+  Copy code
+  npm install
+  ## Screenshots
+```
+
+Step 3: **Configure Firebase**
+Create a Firebase project by visiting the Firebase Console.
+Set up Firebase Authentication and Firestore Database.
+Retrieve your Firebase configuration object (API keys, Auth domain, etc.).
+Create a .env file in the project root and add your Firebase credentials, or replace the configuration object directly in the code.
+Example .env file:
+
+Step 4: **Run the Development Server**
+Once everything is set up, run the following command to start the development server:
+
+  ```bash
+  Copy code
+  npm start
+  The app will be available at http://localhost:3000 in your browser.
+  ```
+
+Step 5: **Build for Production**
+If you want to create a production build of the application, run:
+
+  ```bash
+  npm run build
+  ```
+
+This will create an optimized build in the build folder, ready to be deployed.
+
 
 Here are a few screenshots showcasing the user interface and features of **CryptoClock**:
 
