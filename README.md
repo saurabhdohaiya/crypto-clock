@@ -95,7 +95,6 @@ Here are a few screenshots showcasing the user interface and features of **Crypt
 _Real-time cryptocurrency tracking with data visualization._
 ---
 ### Login Page
-![Login Page](./screenshots/login-page.png)  
 _Secure authentication system using Firebase._
 ![Screenshot 2024-09-27 191555](https://github.com/user-attachments/assets/459c6a9e-8cba-470d-b2e0-19d4d1d909d3)
 ![image](https://github.com/user-attachments/assets/87354f34-660c-46a3-aecf-7e1d33a01ff2)
