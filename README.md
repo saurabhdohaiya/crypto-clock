@@ -1,4 +1,4 @@
-# CryptoClock
+![image](https://github.com/user-attachments/assets/a055ae71-e44d-4d70-8665-87dd6545f73e)# CryptoClock
 
 **CryptoClock** is a real-time cryptocurrency price tracking web application built using ReactJS, Material UI, Firebase, ChartJS, and React Context API. The application provides live updates on cryptocurrency prices, offering insights into price changes over various timeframes ranging from 24 hours to a year. The project emphasizes data visualization and secure user authentication to enhance user engagement and experience.
 
@@ -60,7 +60,6 @@ After cloning the repository, install the required dependencies by running:
   ```bash
   Copy code
   npm install
-  ## Screenshots
 ```
 
 Step 3: **Configure Firebase**
@@ -88,11 +87,11 @@ If you want to create a production build of the application, run:
 
 This will create an optimized build in the build folder, ready to be deployed.
 
-
+## Screenshots
 Here are a few screenshots showcasing the user interface and features of **CryptoClock**:
 
 ### Home Page
-![Home Page](./screenshots/home-page.png)  
+![Home Page]()  
 _Real-time cryptocurrency tracking with data visualization._
 
 ### Login Page
