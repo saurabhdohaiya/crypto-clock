@@ -58,7 +58,6 @@ Step 2: **Install Dependencies**
 After cloning the repository, install the required dependencies by running:
 
   ```bash
-  Copy code
   npm install
 ```
 
@@ -73,7 +72,6 @@ Step 4: **Run the Development Server**
 Once everything is set up, run the following command to start the development server:
 
   ```bash
-  Copy code
   npm start
   The app will be available at http://localhost:3000 in your browser.
   ```
